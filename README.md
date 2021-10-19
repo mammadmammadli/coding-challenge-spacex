@@ -10,6 +10,7 @@ you chose to solve things the way you did. It should be written using function b
 3. Present 1 of the flickr pictures in a page (pick any launch with at least 4 flickr -> original pictures, some launches have none)
 4. Add a way to switch to the next picture
 5. Add a way to switch to a random picture
+6. Make sure the app looks good on both mobile and desktop
 
 ## Report
 Finally, send an e-mail to me with a link to your Git repo. In case you wanna keep it private, add me (ripern) as a collaborator temporarily.
