@@ -12,6 +12,7 @@ you chose to solve things the way you did. It should be written using function b
 5. Add a way to switch to a random picture
 
 ## Report
-Finally, send an e-mail to me with a link to your Git repo. In case you wanna keep it private, add me as a collaborator temporarily.
+Finally, send an e-mail to me with a link to your Git repo. In case you wanna keep it private, add me (ripern) as a collaborator temporarily.
+Bonus: Deploy it to your favourite cloud hosting provider (eg. Vercel.com, Netlify.com) and add that link to the e-mail as well.
 
 Good luck!
