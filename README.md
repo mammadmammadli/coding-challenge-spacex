@@ -14,6 +14,8 @@ you chose to solve things the way you did. It should be written using function b
 5. Add a way to switch to a random picture
 6. Make sure the app looks good on both mobile and desktop
 
+Note: Remember to keep the code clean and commit after each step
+
 ## Report
 
 Finally, send an e-mail to me with a link to your Git repo. In case you wanna keep it private, add me (ripern) as a collaborator temporarily.
