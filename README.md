@@ -1,24 +1,70 @@
-# Coding Challenge
+# Getting Started with Create React App
 
-## Purpose
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-The purpose is to get data from a public API and present it in a somewhat nice way. Also important to be able to explain how the code came about and why
-you chose to solve things the way you did. It should be written using function based Javascript. Feel free to pick any CSS option (vanilla, CSS modules, CSS-in-JS etc.) you prefer. Follow the steps below, keep the code clean and easy to understand and please **commit after each step**. Please don't fork the repo as that might simplify cheating.
+## Available Scripts
 
-## Steps
+In the project directory, you can run:
 
-1. Create a new react app using npx create-react-app (https://reactjs.org/docs/create-a-new-react-app.html)
-2. Fetch data from this SpaceX API https://github.com/r-spacex/SpaceX-API, using https://api.spacexdata.com/v5/launches
-3. Present 1 of the flickr pictures in a page (pick any launch with at least 4 flickr -> original pictures, some launches have none)
-4. Add a way to switch to the next picture
-5. Add a way to switch to a random picture
-6. Make sure the app looks good on both mobile and desktop
+### `npm start`
 
-Note: Remember to keep the code clean and commit after each step
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-## Report
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
-Finally, send an e-mail to me with a link to your Git repo. In case you wanna keep it private, add me (ripern) as a collaborator temporarily.
-Bonus: Deploy it to your favourite cloud hosting provider (eg. Vercel.com, Netlify.com) and add that link to the e-mail as well.
+### `npm test`
 
-Good luck!
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+
+### `npm run build`
+
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
+
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
+
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+### `npm run eject`
+
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
+
+### Code Splitting
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
